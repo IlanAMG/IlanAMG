@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 **Find me on Linkedin:**
 https://www.linkedin.com/in/ilan-amzallag/
 
-## My Github stats
+<!-- ## My Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=IlanAMG&show_icons=true&theme=blueberry" alt="Ilan Amzallag Github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=IlanAMG&show_icons=true&theme=blueberry" alt="Ilan Amzallag Github stats" /> -->
