@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 💬  I'm Ilan, a passionate self-taught french JS Fullstack developer.\
 🔭  I am currently working on several client projects and I work for Le Monde as a JS Fullstack Developer.\
 🌱  In my spare time, I learn web 3.0 with Solidity.\
+🤖  I am very interested in AI.\
 👯  I help juniors become better developers.
 
 **I'm comfortable with:**
