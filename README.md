@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬  I am Ilan, a passionate self-taught french JS Fullstack developer.\
-🔭  I am currently working on several client projects and I work for Le Monde as a JS Fullstack Developer.\
-🏢  I am the president of a digital agency.\
-🌱  In my spare time, I learn web 3.0 with Solidity.\
-🤖  I am very interested in AI.\
-👯  I help juniors become better developers.
+🌟 I'm Ilan, a passionate self-taught French JS Fullstack developer.\
+🚀 Currently, I'm working on various client projects and as a JS Fullstack Developer at Le Monde.\
+🏢 I also serve as the president of a digital agency.\
+🌱 In my spare time, I explore web 3.0 technologies and learn Solidity.\
+🤖 I have a keen interest in Artificial Intelligence.\
+👯 I enjoy mentoring junior developers, helping them enhance their skills.
 
 **I'm comfortable with:**
 
