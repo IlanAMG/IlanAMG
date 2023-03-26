@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🏢 I also serve as the president of a digital agency.\
 🌱 In my spare time, I explore web 3.0 technologies and learn Solidity.\
 🤖 I have a keen interest in Artificial Intelligence.\
-👯 I enjoy mentoring junior developers, helping them enhance their skills.
+👯 I enjoy mentoring junior developers, helping them enhance their skills.\
 
 **I'm comfortable with:**
 
