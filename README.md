@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 **Find me on Linkedin:**
 https://www.linkedin.com/in/ilan-amzallag/
 
+**Inprogress Agency:**
+https://inprogress.agency/
+
 <!-- ## My Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=IlanAMG&show_icons=true&theme=blueberry" alt="Ilan Amzallag Github stats" /> -->
